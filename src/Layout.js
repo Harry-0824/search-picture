@@ -6,7 +6,7 @@ const Layout = () => {
   return (
     <div>
       <nav>
-        <ul>
+        <ul style={{justifyContent: "center"}}>
           <li>
             <Link to="/">首頁</Link>
           </li>
