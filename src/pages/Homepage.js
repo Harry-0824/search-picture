@@ -49,11 +49,11 @@ const Homepage = () => {
             <Search search={() => {
                 search(searchURL);
             }}
-            setInput={setInput} />
+            setInput={setInput} input={input}/>
             <div className="pictures">
                 {data &&
                     data.map((d) => {
-                        return <Picture data={d} />;
+                        return <Picture key={d.id} data={d} />;
                     })}
             </div>
             <div className="morePicture">
