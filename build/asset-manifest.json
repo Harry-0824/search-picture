@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search-picture/build/static/css/main.846dc97e.css",
+    "main.js": "/search-picture/build/static/js/main.dd8c8153.js",
+    "index.html": "/search-picture/build/index.html",
+    "main.846dc97e.css.map": "/search-picture/build/static/css/main.846dc97e.css.map",
+    "main.dd8c8153.js.map": "/search-picture/build/static/js/main.dd8c8153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846dc97e.css",
+    "static/js/main.dd8c8153.js"
+  ]
+}
